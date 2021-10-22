@@ -1,0 +1,13 @@
+{
+  "name": "ts-playground",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "watch": "tsc --project tsconfig.json --watch"
+  },
+  "devDependencies": {
+    "typescript":"^4.4.4"
+  }
+}

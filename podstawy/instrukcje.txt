@@ -1,0 +1,20 @@
+Stwórz aplikacje umożliwającą obsługę biblioteki, wszelkie dane powinno być zamockowane, wiele pozostawiam waszej wyobraźni. Używamy tylko pamięci aplikacji, wszystko znika po restarcie.
+Aby zasymulować ruch w aplikacji sugeruje użyć setInterval, setTimeout.
+
+Funkcjonalności, które powinniśmy zaimplementować:
+
+Rejestr wszystki materiałów dostępnych w bibliotece (książki, komiksy, kasety VHS). Powinniśmy udostępniać funkcje do:
+- dodawania nowej książki/komiksu/kasety do rejestru (tytuł, rok wydania, autor)
+- usuwania książki/komiksu/kasety z rejestru
+- przypisywania książki do użytkownika biblioteki
+
+Rejestr użytkowników biblioteki
+- dodawanie użytkownika (imię, nazwisko, rok urodzenia)
+- pobieranie wszystkich materiałów przypisanych do użytkownika
+
+    
+
+Jeśli znasz jakieś koncepty związane z programowaniem obiektowym postaraj się ich użyć. 
+
+*Dodatkowo, funkcje dotyczącę rejestru użytkowników powinny zostać poprzedzone nazwy funkcji i argumentów w konsoli. 
+Stwórz w tym celu odpowiedni dekorator.

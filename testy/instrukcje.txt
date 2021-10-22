@@ -1,0 +1,14 @@
+Do istniejącego rejestru produktów dodaj możliwość dodawania nowych produktów i usuwania istniejących.
+Napisz do tego testy z użyciem JSDOM i jest.
+
+Przykładowe test:
+
+Dodawanie produktu
+1. załaduj stronę i zamockowane produkty
+2. wprowadź input i wywołaj kliknięcie przycisku do zatwierdzenia
+3. sprawdz czy rekord zniknął i czy html przerenderował się poprawnie
+
+Usuwanie produktu
+1. załaduj stronę i zamockowane produkty
+2. wywołaj kliknięcie przycisku do usunięcia produktu
+3. sprawdź czy rekord zniknął i czy html przerenderował się poprawnie
